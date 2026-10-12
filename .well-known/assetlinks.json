@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.supervisor_515.twa",
+      "sha256_cert_fingerprints": [
+        "5E:CA:44:79:2E:D6:A3:06:C8:67:30:ED:8C:A8:C9:74:18:3D:DB:61:22:00:ED:CD:64:9B:C3:03:03:5A:2F:7D"
+      ]
+    }
+  }
+]

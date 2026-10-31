@@ -10,5 +10,17 @@
         "5E:CA:44:79:2E:D6:A3:06:C8:67:30:ED:8C:A8:C9:74:18:3D:DB:61:22:00:ED:CD:64:9B:C3:03:03:5A:2F:7D"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.supervisor_515.cctv",
+      "sha256_cert_fingerprints": [
+        "C9:21:13:42:43:94:40:7D:EF:2A:3E:33:2E:92:BA:1B:C8:97:C5:34:6B:48:BC:12:06:55:C4:06:D3:78:48:A8"
+      ]
+    }
   }
 ]
